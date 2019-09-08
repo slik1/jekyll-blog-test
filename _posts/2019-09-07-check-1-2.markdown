@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Check 1, 2"
+date:   2019-09-07 11:22:29 -0700
+categories: jekyll update
+---
+Just wanted to document all the challenges and solutions I've encountered while building my first Angular 8 app using Drupal 7 as a headless CMS to interface with via the Services module and a RESTful API. 
+
+I'll post a link to both the Drupal Github repo and Angular app Github repo soon...
+
+
+{% highlight javascript %}
+
+// this function right here took awhile...
+
+checkAuthenticationStatus(){
+    ...
+}
+
+{% endhighlight %}
+
+
+Note to self: Check out the [Jekyll docs][jekyll-docs]
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
